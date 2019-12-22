@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    color: #9e9e9e;
+}
+.container{
+    padding: 0 70px;
+}
+.heading-area h1{
+    font-size: 30px;
+    color: #000;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+.heading-area h1 span{
+    color: #26A65B;
+}
+.heading-area p{
+    font-size: 14px;
+    line-height: 1.8;
+    padding-bottom: 20px;
+}
+.pricing-area h3{
+    font-size: 15px;
+    font-weight: 700;
+    color: #000;
+    text-transform: uppercase;
+}
+.pricing-area ul li{
+    list-style: none;
+    float: left;
+    padding: 5px 10px;
+}
+.pricing-area ul li i{
+    color: #26A65B;
+    padding-right: 7px;
+}
+.pricing-area ul li span i{
+    color: #ED1414;
+}
+.pricing-area h2{
+    color: #000;
+    font-weight: 700;
+    padding-top: 120px;
+    font-size: 25px;
+}
+.pricing-area h2 span{
+    font-size: 38px;
+}
+.pricing-area{
+    padding: 0 5px;
+}
+.pricing-area a{
+    text-decoration: none;
+    border: 1px solid #26A65B;
+    padding: 10px 30px;
+    border-radius: 50px;
+}
+.icon i{
+    font-size: 65px;
+    padding: 25px;
+}
+.one{
+    border: 1px solid #9e9e9e;
+    padding: 20px 0 40px 0;
+}
